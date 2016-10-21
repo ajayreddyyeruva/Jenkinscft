@@ -1,0 +1,23 @@
+[
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  }, 
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "ec2lamp"
+  },
+  {
+    "ParameterKey": "ImageID",
+    "ParameterValue": "ami-de347abe"
+  },
+  {
+    "ParameterKey": "InstanceSecurityGroup",
+    "ParameterValue": "sg-9fa8aefb"
+  },
+  {
+    "ParameterKey": "SubnetId",
+    "ParameterValue": "subnet-db302082"
+  }
+  
+]
